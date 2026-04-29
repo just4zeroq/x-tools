@@ -39,5 +39,7 @@ CLAUDE.md
 
 # Deployment
 deploy.sh
+deploy.ps1
+deploy.py
 dist.zip
 deploy.env
