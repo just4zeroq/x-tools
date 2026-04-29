@@ -1,558 +1,558 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ai-tools.pro/</loc>
+    <loc>https://x-tools.cc/</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/about</loc>
+    <loc>https://x-tools.cc/about</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
   <!-- AI Tools -->
   <url>
-    <loc>https://ai-tools.pro/tools/image-generator</loc>
+    <loc>https://x-tools.cc/tools/image-generator</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/voice-generator</loc>
+    <loc>https://x-tools.cc/tools/voice-generator</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/ppt-generator</loc>
+    <loc>https://x-tools.cc/tools/ppt-generator</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <!-- Crypto Tools -->
   <url>
-    <loc>https://ai-tools.pro/tools/token-generator</loc>
+    <loc>https://x-tools.cc/tools/token-generator</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/hash-text</loc>
+    <loc>https://x-tools.cc/tools/hash-text</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/bcrypt</loc>
+    <loc>https://x-tools.cc/tools/bcrypt</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/uuid-generator</loc>
+    <loc>https://x-tools.cc/tools/uuid-generator</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/ulid-generator</loc>
+    <loc>https://x-tools.cc/tools/ulid-generator</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/encryption</loc>
+    <loc>https://x-tools.cc/tools/encryption</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/bip39-generator</loc>
+    <loc>https://x-tools.cc/tools/bip39-generator</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/hmac-generator</loc>
+    <loc>https://x-tools.cc/tools/hmac-generator</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/rsa-key-pair-generator</loc>
+    <loc>https://x-tools.cc/tools/rsa-key-pair-generator</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/password-strength-analyser</loc>
+    <loc>https://x-tools.cc/tools/password-strength-analyser</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/pdf-signature-checker</loc>
+    <loc>https://x-tools.cc/tools/pdf-signature-checker</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <!-- Converter Tools -->
   <url>
-    <loc>https://ai-tools.pro/tools/date-time-converter</loc>
+    <loc>https://x-tools.cc/tools/date-time-converter</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/integer-base-converter</loc>
+    <loc>https://x-tools.cc/tools/integer-base-converter</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/roman-numeral-converter</loc>
+    <loc>https://x-tools.cc/tools/roman-numeral-converter</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/base64-string-converter</loc>
+    <loc>https://x-tools.cc/tools/base64-string-converter</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/base64-file-converter</loc>
+    <loc>https://x-tools.cc/tools/base64-file-converter</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/color-converter</loc>
+    <loc>https://x-tools.cc/tools/color-converter</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/case-converter</loc>
+    <loc>https://x-tools.cc/tools/case-converter</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/text-to-nato-alphabet</loc>
+    <loc>https://x-tools.cc/tools/text-to-nato-alphabet</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/text-to-binary</loc>
+    <loc>https://x-tools.cc/tools/text-to-binary</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/text-to-unicode</loc>
+    <loc>https://x-tools.cc/tools/text-to-unicode</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/yaml-to-json-converter</loc>
+    <loc>https://x-tools.cc/tools/yaml-to-json-converter</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/yaml-to-toml</loc>
+    <loc>https://x-tools.cc/tools/yaml-to-toml</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/json-to-yaml</loc>
+    <loc>https://x-tools.cc/tools/json-to-yaml</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/json-to-toml</loc>
+    <loc>https://x-tools.cc/tools/json-to-toml</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/list-converter</loc>
+    <loc>https://x-tools.cc/tools/list-converter</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/toml-to-json</loc>
+    <loc>https://x-tools.cc/tools/toml-to-json</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/toml-to-yaml</loc>
+    <loc>https://x-tools.cc/tools/toml-to-yaml</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/xml-to-json</loc>
+    <loc>https://x-tools.cc/tools/xml-to-json</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/json-to-xml</loc>
+    <loc>https://x-tools.cc/tools/json-to-xml</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/markdown-to-html</loc>
+    <loc>https://x-tools.cc/tools/markdown-to-html</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <!-- Web Tools -->
   <url>
-    <loc>https://ai-tools.pro/tools/url-encoder</loc>
+    <loc>https://x-tools.cc/tools/url-encoder</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/html-entities</loc>
+    <loc>https://x-tools.cc/tools/html-entities</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/url-parser</loc>
+    <loc>https://x-tools.cc/tools/url-parser</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/device-information</loc>
+    <loc>https://x-tools.cc/tools/device-information</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/basic-auth-generator</loc>
+    <loc>https://x-tools.cc/tools/basic-auth-generator</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/meta-tag-generator</loc>
+    <loc>https://x-tools.cc/tools/meta-tag-generator</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/otp-code-generator-and-validator</loc>
+    <loc>https://x-tools.cc/tools/otp-code-generator-and-validator</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/mime-types</loc>
+    <loc>https://x-tools.cc/tools/mime-types</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/jwt-parser</loc>
+    <loc>https://x-tools.cc/tools/jwt-parser</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/keycode-info</loc>
+    <loc>https://x-tools.cc/tools/keycode-info</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/slugify-string</loc>
+    <loc>https://x-tools.cc/tools/slugify-string</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/html-wysiwyg-editor</loc>
+    <loc>https://x-tools.cc/tools/html-wysiwyg-editor</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/user-agent-parser</loc>
+    <loc>https://x-tools.cc/tools/user-agent-parser</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/http-status-codes</loc>
+    <loc>https://x-tools.cc/tools/http-status-codes</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/json-diff</loc>
+    <loc>https://x-tools.cc/tools/json-diff</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/safelink-decoder</loc>
+    <loc>https://x-tools.cc/tools/safelink-decoder</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <!-- Images & Videos Tools -->
   <url>
-    <loc>https://ai-tools.pro/tools/qr-code-generator</loc>
+    <loc>https://x-tools.cc/tools/qr-code-generator</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/wifi-qr-code-generator</loc>
+    <loc>https://x-tools.cc/tools/wifi-qr-code-generator</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/svg-placeholder-generator</loc>
+    <loc>https://x-tools.cc/tools/svg-placeholder-generator</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/camera-recorder</loc>
+    <loc>https://x-tools.cc/tools/camera-recorder</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <!-- Development Tools -->
   <url>
-    <loc>https://ai-tools.pro/tools/git-memo</loc>
+    <loc>https://x-tools.cc/tools/git-memo</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/random-port-generator</loc>
+    <loc>https://x-tools.cc/tools/random-port-generator</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/crontab-generator</loc>
+    <loc>https://x-tools.cc/tools/crontab-generator</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/json-viewer</loc>
+    <loc>https://x-tools.cc/tools/json-viewer</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/json-minify</loc>
+    <loc>https://x-tools.cc/tools/json-minify</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/json-to-csv</loc>
+    <loc>https://x-tools.cc/tools/json-to-csv</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/sql-prettify</loc>
+    <loc>https://x-tools.cc/tools/sql-prettify</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/chmod-calculator</loc>
+    <loc>https://x-tools.cc/tools/chmod-calculator</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/docker-run-to-docker-compose-converter</loc>
+    <loc>https://x-tools.cc/tools/docker-run-to-docker-compose-converter</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/xml-formatter</loc>
+    <loc>https://x-tools.cc/tools/xml-formatter</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/yaml-viewer</loc>
+    <loc>https://x-tools.cc/tools/yaml-viewer</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/email-normalizer</loc>
+    <loc>https://x-tools.cc/tools/email-normalizer</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/regex-tester</loc>
+    <loc>https://x-tools.cc/tools/regex-tester</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/regex-memo</loc>
+    <loc>https://x-tools.cc/tools/regex-memo</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <!-- Network Tools -->
   <url>
-    <loc>https://ai-tools.pro/tools/ipv4-subnet-calculator</loc>
+    <loc>https://x-tools.cc/tools/ipv4-subnet-calculator</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/ipv4-address-converter</loc>
+    <loc>https://x-tools.cc/tools/ipv4-address-converter</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/ipv4-range-expander</loc>
+    <loc>https://x-tools.cc/tools/ipv4-range-expander</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/mac-address-lookup</loc>
+    <loc>https://x-tools.cc/tools/mac-address-lookup</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/mac-address-generator</loc>
+    <loc>https://x-tools.cc/tools/mac-address-generator</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/ipv6-ula-generator</loc>
+    <loc>https://x-tools.cc/tools/ipv6-ula-generator</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <!-- Math Tools -->
   <url>
-    <loc>https://ai-tools.pro/tools/math-evaluator</loc>
+    <loc>https://x-tools.cc/tools/math-evaluator</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/eta-calculator</loc>
+    <loc>https://x-tools.cc/tools/eta-calculator</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/percentage-calculator</loc>
+    <loc>https://x-tools.cc/tools/percentage-calculator</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <!-- Measurement Tools -->
   <url>
-    <loc>https://ai-tools.pro/tools/chronometer</loc>
+    <loc>https://x-tools.cc/tools/chronometer</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/temperature-converter</loc>
+    <loc>https://x-tools.cc/tools/temperature-converter</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/benchmark-builder</loc>
+    <loc>https://x-tools.cc/tools/benchmark-builder</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <!-- Text Tools -->
   <url>
-    <loc>https://ai-tools.pro/tools/lorem-ipsum-generator</loc>
+    <loc>https://x-tools.cc/tools/lorem-ipsum-generator</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/text-statistics</loc>
+    <loc>https://x-tools.cc/tools/text-statistics</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/emoji-picker</loc>
+    <loc>https://x-tools.cc/tools/emoji-picker</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/string-obfuscator</loc>
+    <loc>https://x-tools.cc/tools/string-obfuscator</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/text-diff</loc>
+    <loc>https://x-tools.cc/tools/text-diff</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/numeronym-generator</loc>
+    <loc>https://x-tools.cc/tools/numeronym-generator</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/ascii-text-drawer</loc>
+    <loc>https://x-tools.cc/tools/ascii-text-drawer</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <!-- Data Tools -->
   <url>
-    <loc>https://ai-tools.pro/tools/phone-parser-and-formatter</loc>
+    <loc>https://x-tools.cc/tools/phone-parser-and-formatter</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai-tools.pro/tools/iban-validator-and-parser</loc>
+    <loc>https://x-tools.cc/tools/iban-validator-and-parser</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

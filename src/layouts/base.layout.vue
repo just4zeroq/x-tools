@@ -106,7 +106,7 @@ const toolsList = computed<ToolCategory[]>(() => [
       </div>
       <slot />
       <div class="page-footer">
-        © AI Tools 2026
+        ©AI x-tools 2026
       </div>
     </template>
   </MenuLayout>

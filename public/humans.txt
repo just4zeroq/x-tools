@@ -1,7 +1,6 @@
 /* TEAM */
-Developer: AI Tools Team
-Site: https://github.com/CorentinTh/it-tools
-Original Author: Corentin Thomasset
+Developer: just4zeroq
+Site: https://github.com/just4zeroq/x-tools
 
 /* THANKS */
 Vue.js - https://vuejs.org
@@ -10,12 +9,12 @@ Naive UI - https://www.naiveui.com
 /* TECHNOLOGY */
 Frontend: Vue 3 + TypeScript
 UI Library: Naive UI
-Deployment: Vercel
+Deployment: Cloud Server
 
 /* STANDARDS */
 HTML5, CSS3, ECMAScript 2021+
 
 /* SITE */
-Last update: 2026-04-29
+Last update: 2026-04-30
 Language: Multilingual
 License: GPL-3.0

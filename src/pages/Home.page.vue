@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { IconDragDrop } from '@tabler/icons-vue';
 import { useHead } from '@vueuse/head';
-import { computed } from 'vue';
+import { computed, ref } from 'vue';
 import Draggable from 'vuedraggable';
 import ToolCard from '../components/ToolCard.vue';
 import { useToolStore } from '@/tools/tools.store';
@@ -24,6 +24,8 @@ const popularTools = computed(() => {
 function onUpdateFavoriteTools() {
   toolStore.updateFavoriteTools(favoriteTools.value);
 }
+
+const activeTab = ref<'popular' | 'all'>('popular');
 </script>
 
 <template>
@@ -50,16 +52,36 @@ function onUpdateFavoriteTools() {
       </section>
     </transition>
 
-    <section v-if="popularTools.length > 0" class="tools-section">
-      <div class="section-header">
-        <h2 class="section-title">{{ $t('tools.categories.popular') }}</h2>
-        <span class="tools-count">{{ popularTools.length }} tools</span>
+    <!-- Popular + All Tools: Tab layout -->
+    <section class="tools-section">
+      <div class="tab-header">
+        <button
+          class="tab-btn"
+          :class="{ active: activeTab === 'popular' }"
+          @click="activeTab = 'popular'"
+        >
+          {{ $t('tools.categories.popular') }}
+          <span class="tab-count">{{ popularTools.length }}</span>
+        </button>
+        <button
+          class="tab-btn"
+          :class="{ active: activeTab === 'all' }"
+          @click="activeTab = 'all'"
+        >
+          {{ $t('home.categories.allTools') }}
+          <span class="tab-count">{{ toolStore.tools.length }}</span>
+        </button>
       </div>
-      <div class="tools-grid">
-        <ToolCard v-for="tool in popularTools" :key="tool.path" :tool="tool" />
-      </div>
-    </section>
 
+      <transition name="tab-fade" mode="out-in">
+        <div v-if="activeTab === 'popular'" :key="'popular'" class="tools-grid">
+          <ToolCard v-for="tool in popularTools" :key="tool.path" :tool="tool" />
+        </div>
+        <div v-else :key="'all'" class="tools-grid">
+          <ToolCard v-for="tool in toolStore.tools" :key="tool.name" :tool="tool" />
+        </div>
+      </transition>
+    </section>
   </div>
 </template>
 
@@ -119,6 +141,50 @@ function onUpdateFavoriteTools() {
   }
 }
 
+.tab-header {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 20px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.tab-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  border: none;
+  background: transparent;
+  color: var(--text-secondary);
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+
+  &:hover {
+    background: var(--bg-accent);
+    color: var(--text-primary);
+  }
+
+  &.active {
+    background: var(--primary-color, #18a058);
+    color: white;
+  }
+
+  .tab-count {
+    font-size: 11px;
+    padding: 2px 8px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+
+    .tab-btn:not(.active) & {
+      background: var(--bg-accent);
+    }
+  }
+}
+
 .tools-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
@@ -143,6 +209,21 @@ function onUpdateFavoriteTools() {
   opacity: 0;
 }
 
+.tab-fade-enter-active,
+.tab-fade-leave-active {
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.tab-fade-enter-from {
+  opacity: 0;
+  transform: translateY(8px);
+}
+
+.tab-fade-leave-to {
+  opacity: 0;
+  transform: translateY(-8px);
+}
+
 // Dark mode
 .dark {
   .home-container {
@@ -159,6 +240,10 @@ function onUpdateFavoriteTools() {
   .ghost-favorites-draggable {
     background: var(--bg-accent);
     border-color: #3d3d52;
+  }
+
+  .tab-btn.active .tab-count {
+    background: rgba(255, 255, 255, 0.2);
   }
 }
 </style>

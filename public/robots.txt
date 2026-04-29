@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://ai-tools.pro/sitemap.xml
+Sitemap: https://x-tools.cc/sitemap.xml
 
 # Crawl-delay for polite crawling
 Crawl-delay: 1
