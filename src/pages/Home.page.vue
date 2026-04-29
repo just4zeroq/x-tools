@@ -60,24 +60,6 @@ function onUpdateFavoriteTools() {
       </div>
     </section>
 
-    <section v-if="toolStore.newTools.length > 0" class="tools-section">
-      <div class="section-header">
-        <h2 class="section-title">{{ t('home.categories.newestTools') }}</h2>
-      </div>
-      <div class="tools-grid">
-        <ToolCard v-for="tool in toolStore.newTools" :key="tool.name" :tool="tool" />
-      </div>
-    </section>
-
-    <section class="tools-section">
-      <div class="section-header">
-        <h2 class="section-title">{{ $t('home.categories.allTools') }}</h2>
-        <span class="tools-count">{{ toolStore.tools.length }} tools</span>
-      </div>
-      <div class="tools-grid">
-        <ToolCard v-for="tool in toolStore.tools" :key="tool.name" :tool="tool" />
-      </div>
-    </section>
   </div>
 </template>
 
